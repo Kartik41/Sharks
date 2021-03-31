@@ -1,5 +1,5 @@
 class SharksController < ApplicationController
-  before_action :set_shark, only: [:show, :edit, :update, :destroy]
+ # before_action :set_shark, only: [:show, :edit, :update, :destroy]
 
   # GET /sharks
   # GET /sharks.json
